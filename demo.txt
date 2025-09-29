@@ -1,0 +1,1 @@
+Demo images for the image-captioning project; used to generate example captions in the README and app
