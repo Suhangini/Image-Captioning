@@ -7,3 +7,4 @@ HOW IT WORKS? :
 Load image: open with PIL and converted to RGB for consistent processing across inputs.
 Display in Colab: Visualize inputs or results using cv2_imshow, which is OpenCV- friendly display function for colab notebook.
 Conditional captioning: tokenie the image with an optional promt via. BlipProcessor, then generate a caption with BlipForConditionalGeneration and decode to text.
+
